@@ -9,12 +9,12 @@ in the following table, we show inference time (ms) of two models `torch` and `T
 
 <table>
  <tr>
- <td>"Torch"</td>
- <td>"tensorRT"</td>
+ <td> Torch </td>
+ <td> tensorRT </td>
  </tr>
  <tr>
- <td> "13.0" </td>
- <td> "10.8" </td>
+ <td> 13.0 </td>
+ <td> 10.8 </td>
  </tr>
 </table>
     
