@@ -6,7 +6,8 @@ We implemented our code in `YOLOv5.ipynb`
 
 # Result
 in the following table, we show inference time (ms) of two models `torch` and `TensorRT`.  
-<tabel>
+
+<table>
  <tr>
  <td>"Torch"</td>
  <td>"tensorRT"</td>
@@ -15,5 +16,5 @@ in the following table, we show inference time (ms) of two models `torch` and `T
  <td> "13.0" </td>
  <td> "10.8" </td>
  </tr>
-</tabel>
+</table>
     
